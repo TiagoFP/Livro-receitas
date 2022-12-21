@@ -40,11 +40,11 @@
 
 ### Modo de Preparo
 
-1. Primeiro, pegue a lata de leite condensado, as gemas, a maisena e o leite.
-2. Coloque no fogo e deixe até que fique um creme, reserve.
-3. Coloque a segunda lata de leite condensado com um pouco de margarina e o chocolate.
-4. Deixe no fogo até ficar um creme tipo brigadeiro.
-5. Desligue o fogo e junte com o creme de leite.
+1. Primeiro, pegue a lata de leite condensado, as gemas, a maisena e o leite
+2. Coloque no fogo e deixe até que fique um creme, reserve
+3. Coloque a segunda lata de leite condensado com um pouco de margarina e o chocolate
+4. Deixe no fogo até ficar um creme tipo brigadeiro
+5. Desligue o fogo e junte com o creme de leite
 
 ### Montagem
 
@@ -84,11 +84,11 @@
 
 ### Modo de Preparo
 
-1. Primeira camada de carne moída com o molho
-2. Segundo camada apenas de massa
-3. Terceira camada de molho, queijo e presunto
-4. Quarta camada apenas de massa
-5. Quinta de carne moída com o molho
-6. Sexta camada apenas de massa
-7. Sétima camada de molho, queijo e presunto
-8. Leve ao forno por meia hora, sempre verificando para não passar do ponto
+1. Primeira camada de carne moída com o molho.
+2. Segundo camada apenas de massa.
+3. Terceira camada de molho, queijo e presunto.
+4. Quarta camada apenas de massa.
+5. Quinta de carne moída com o molho.
+6. Sexta camada apenas de massa.
+7. Sétima camada de molho, queijo e presunto.
+8. Leve ao forno por meia hora, sempre verificando para não passar do ponto.
