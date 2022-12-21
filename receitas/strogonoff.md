@@ -51,7 +51,7 @@
 3. Depois, coloque o creme preto e acrescente as raspas de chocolate sobre ele.
 4. Deixe no congelador durante 2 horas.
 
-# Brigadeiro
+# Brigadeiro :chocolate_bar:
 
 ### Ingredientes
 
@@ -64,3 +64,27 @@
 1. Adicionar a margarina ou manteiga e esperar derreter.
 2. Colocar o leite condensado e colocar o nescau aos poucos.
 3. Mexer até borbulhar e se tornar homogêneo.
+
+
+
+# Lasanha :spaghetti:
+
+### Ingredientes
+
+- Massa de lasanha
+- Presunto
+- Queijo
+- Carne moída
+- Molho tranco
+- Molho de tomate
+
+### Modo de Preparo
+
+1. Primeira camada de carne moída com o molho
+2. Segundo camada apenas de massa
+3. Terceira camada de molho, queijo e presunto
+4. Quarta camada apenas de massa
+5. Quinta de carne moída com o molho
+6. Sexta camada apenas de massa
+7. Sétima camada de molho, queijo e presunto
+8. Leve ao forno por meia hora, sempre verificando para não passar do ponto
