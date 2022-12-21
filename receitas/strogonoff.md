@@ -1,4 +1,6 @@
-# Strogonoff de Frango :chicken:
+# Receitas :book:
+
+## Strogonoff de Frango :chicken:
 
 ### Ingredientes
 
@@ -22,7 +24,7 @@
 
 
 
-# Pavê :ice_cream:
+## Pavê :ice_cream:
 
 ### Ingredientes
 
@@ -51,7 +53,9 @@
 3. Depois, coloque o creme preto e acrescente as raspas de chocolate sobre ele.
 4. Deixe no congelador durante 2 horas.
 
-# Brigadeiro :chocolate_bar:
+
+
+## Brigadeiro :chocolate_bar:
 
 ### Ingredientes
 
@@ -67,7 +71,7 @@
 
 
 
-# Lasanha :spaghetti:
+## Lasanha :spaghetti:
 
 ### Ingredientes
 
